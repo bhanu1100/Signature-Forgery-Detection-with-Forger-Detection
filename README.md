@@ -10,7 +10,7 @@ As the title suggests this project is about signature forgery detection along wi
 
 After detecting if the signature is forged or real we perform an additional task which is finding out the forger. In order to this also we have used the same technique of CNN with transfer learning.
 
-##Software and Hardware Requirements: 
+## Software and Hardware Requirements: 
 1. Programming language: Python
 2. Environment: Google colab
 3. Machine learning libraries: tensorflow, sklearn 
