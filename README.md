@@ -58,9 +58,9 @@ For support or any issue while running the model try asking on Stackoverflow.
 ## Acknowledgements
 Special thanks to my professor Dr. Arka Prokash Mazumdar who guided me through this whole project by helping me build the dataset from scratch and by taking regular sessions for improving the model.
 
-I would like to express my gratitude to the following projects and resources that have greatly influenced or contributed to this work:<br>
+I would like to express my gratitude to the following project and resources that have greatly influenced or contributed to this work:<br>
 https://medium.com/swlh/signet-detecting-signature-similarity-using-machine-learning-deep-learning-is-this-the-end-of-1a6bdc76b04b<br>
-Github: https://github.com/aaditkapoor/SigNet
+https://github.com/aaditkapoor/SigNet
 
 Thanks to all the prior work that helped me improve my knowledge in this area, below are the IEEE research papers link:<br>
 https://ieeexplore.ieee.org/abstract/document/6195358/citations#citations   (2012)<br>
