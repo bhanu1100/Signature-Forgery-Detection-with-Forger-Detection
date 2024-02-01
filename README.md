@@ -8,7 +8,7 @@ To check if a signature is forged or real they perform a manual comparision chec
 ## Project Description
 As the title suggests this project is about signature forgery detection along with an add-on of who might have done the forgery. Here a Convolution neural network is used to find if the input signature image is forged or real, but since CNN alone is unable to give good accuracy we used the technique of "Transfer learning". It involves taking a pre-trained model and adapting it to a new, related task. 
 
-After detecting if the signature is forged or real we perform an additional task which is finding out the forger. In order to this also we have used the same technique of CNN with transfer learning.
+After detecting if the signature is forged or real we perform an additional task which is finding out the forger. In order to this we have used the technique of CNN.
 
 ## Software and Hardware Requirements: 
 1. Programming language: Python
@@ -39,8 +39,15 @@ from google.colab import drive<br>
 drive.mount('/content/drive')<br>
 5. New datasets can be given to the model but the class names should match in the dataset and code.
 
-
-   
+## Project roadmap
+1. Importing the libraries
+2. Setting the path to the dataset
+3. Preprocessing, extracting images and dividing into test, train and validation
+4. CNN model to identify if forged or real
+5. Transfer learning and prediction accuracy calculation
+6. Trail on an image
+7. For next process i.e identifying the forger we follow the same steps but for 10 classes
+8. Additionally we plot the accuracy graph for visualization 
 
 
 
