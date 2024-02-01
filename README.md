@@ -1,4 +1,5 @@
 # Signature-Forgery-Detection-with-Forger-Detection-Using-CNN
+## Done under the esteemed guidance of Dr. Arka Prokash Mazumdar of MNIT Jaipur
 ## Introduction
 A signature can be defined as a unique mark which is a handwritten representation an individual creates in order to authenticate any written records. When an individual signs a document it means that the individual is giving their consent, approval and agreement after studying the whole document when he/she is mentally sound.
 
@@ -56,7 +57,7 @@ The original goal of the project has been achieved but there are further improve
 For support or any issue while running the model try asking on Stackoverflow.
 
 ## Acknowledgements
-Special thanks to my professor [Dr. Arka Prokash Mazumdar] of MNIT Jaipur who guided me through this whole project by helping me build the dataset from scratch and by taking regular sessions for improving the model by giving valuable insights on the project.
+Special thanks to my professor Dr. Arka Prokash Mazumdar of MNIT Jaipur who guided me through this whole project by helping me build the dataset from scratch and by taking regular sessions for improving the model by giving valuable insights on the project.
 
 I would like to express my gratitude to the following project and resources that have greatly influenced or contributed to this work:<br>
 https://medium.com/swlh/signet-detecting-signature-similarity-using-machine-learning-deep-learning-is-this-the-end-of-1a6bdc76b04b<br>
