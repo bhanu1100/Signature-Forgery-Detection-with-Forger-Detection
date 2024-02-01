@@ -47,8 +47,24 @@ drive.mount('/content/drive')<br>
 5. Transfer learning and prediction accuracy calculation
 6. Trail on an image
 7. For next process i.e identifying the forger we follow the same steps but for 10 classes
-8. Additionally we plot the accuracy graph for visualization 
+8. Additionally we plot the accuracy graph for visualization
 
+## Project Status
+The original goal of the project has been achieved but there are further improvements to be added and there can be further extension of this project like considering the age factor while checking for forgery. So it can be said that it is in development state.
+
+## Support Information
+For support or any issue while running the model try asking on Stackoverflow.
+
+## Acknowledgements
+Special thanks to my professor Dr. Arka Prokash Mazumdar who guided me through this whole project by helping me build the dataset from scratch and by taking regular sessions for improving the model.
+
+
+Special thanks to this reference I was able to build my project with good understanding  
+REFERENCES:
+https://medium.com/swlh/signet-detecting-signature-similarity-using-machine-learning-deep-learning-is-this-the-end-of-1a6bdc76b04b
+Github: https://github.com/aaditkapoor/SigNet
+
+Thanks to all the references that helped me improve my knowledge in this area 
 
 
 
