@@ -16,10 +16,14 @@ After detecting if the signature is forged or real we perform an additional task
 3. Machine learning libraries: tensorflow, sklearn 
 4. Data manipulation libraries: numpy
 5. Data visualization libraries: matplotlib
-6. Dataset
+6. Dataset (Description and link given below)
 7. Hardware accelerator: CPU (Google colab)
 8. Runtime type: Python 3 (Google colab)
 
+## Dataset
+The dataset used here is a new one prepared from scratch by referring to previously existing ones. The link to the datasets used are :
+1. https://drive.google.com/drive/folders/1pyfxvBr-ESRezjLlSLwBUZUVlI43OjxQ?usp=sharing
+2. https://drive.google.com/drive/folders/1-VaD7tTSoCPnl4Nq3wqailZbmn0RFq7y?usp=sharing
 
 
 
