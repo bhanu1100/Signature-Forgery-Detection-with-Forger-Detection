@@ -35,9 +35,10 @@ The project is doen in a Google Colab notebook using python there are not many i
 https://colab.research.google.com/drive/1FmDhuHPIf1CeDA1noWcdx-ycox0YYYOo?usp=sharing
 2. To access the datasets use the above links.
 3. To mount the Google Drive(where the datasets are stored) use:
+
 from google.colab import drive
 drive.mount('/content/drive')
-4. New datasets can be given to the model but the class names should match in the dataset and code.
+5. New datasets can be given to the model but the class names should match in the dataset and code.
 
 
    
