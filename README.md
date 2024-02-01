@@ -29,4 +29,23 @@ All the users were asked to sign their original signature 10 times on one side o
 For first CNN model we haev two classes namely forge and real so the data is arranged into these two folders.
 For second CNN model we have 10 classes i.e 10 users so we arrange only the forged signatures into 10 folders.  
 
+## Installation Steps
+The project is doen in a Google Colab notebook using python there are not many installatio steps since Colab provides a cloud-based environment with pre-installed libraries. 
+1. To open the project in colab:
+https://colab.research.google.com/drive/1FmDhuHPIf1CeDA1noWcdx-ycox0YYYOo?usp=sharing
+2. To access the datasets use the above links.
+3. To mount the Google Drive(where the datasets are stored) use:
+from google.colab import drive
+drive.mount('/content/drive')
+4. New datasets can be given to the model but the class names should match in the dataset and code.
+
+
+   
+
+
+
+
+
+
+
 
