@@ -21,9 +21,12 @@ After detecting if the signature is forged or real we perform an additional task
 8. Runtime type: Python 3 (Google colab)
 
 ## Dataset
-The dataset used here is a new one prepared from scratch by referring to previously existing ones. The link to the datasets used are :
+The dataset used here is a new one prepared from scratch by referring to previously existing ones.The dataset contains signatures of 10 different users. The link to the datasets used are :
 1. https://drive.google.com/drive/folders/1pyfxvBr-ESRezjLlSLwBUZUVlI43OjxQ?usp=sharing
 2. https://drive.google.com/drive/folders/1-VaD7tTSoCPnl4Nq3wqailZbmn0RFq7y?usp=sharing
 
+All the users were asked to sign their original signature 10 times on one side of an A4 sheet and try to forge the other 9 users signatures on the other side. After colleting the signatures from all users the sheets were scanned and each signature is cropped and stored.
+For first CNN model we haev two classes namely forge and real so the data is arranged into these two folders.
+For second CNN model we have 10 classes i.e 10 users so we arrange only the forged signatures into 10 folders.  
 
 
